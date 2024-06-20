@@ -1,0 +1,5 @@
+O Projeto focado na média e na variância foi realizado no VS Code mesmo.
+
+Mas o Projeto voltado aos gráficos foi construído e executado no IntelliJ.
+
+Houveram problemas e dificuldades na utilização do VS Code. No fim, só funcionou no IntelliJ.
